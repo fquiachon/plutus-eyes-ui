@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 2vmin;
   pointer-events: none;
 }
 
@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #0A2F53;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
